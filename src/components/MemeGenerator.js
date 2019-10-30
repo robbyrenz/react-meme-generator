@@ -12,8 +12,6 @@ class MemeGenerator extends React.Component {
     render() {
         return (
             <div>
-                <h2>{this.state.topText}</h2>
-                <h3>{this.state.bottomText}</h3>
             </div>
         )
     }
